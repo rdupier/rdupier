@@ -21,7 +21,7 @@ Mes petits bonheurs:
 - :tea: Boire du thé
 - :film_projector: Filmer et monter des vidéos
 - :martial_arts_uniform: Pratiquer l’Iaido
-- :evergreen_tree: Me promener en forêt
+- :evergreen_tree: Me promener dans la forêt
 
 <br/>
 
