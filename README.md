@@ -1,4 +1,4 @@
-Hi! I'm Ruth
+:uk: Hi! I'm Ruth
 
 I enjoy coding and picking up new skills every day.
 
@@ -11,7 +11,7 @@ Things that make me happy:
 
 <hr/>
 
-Salut! Je suis Ruth
+:fr: Salut! Je suis Ruth
 
 J’aime coder et apprendre de nouvelles choses chaque jour.
 
