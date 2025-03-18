@@ -15,11 +15,11 @@ Things that make me happy:
 
 J’aime coder et apprendre de nouvelles choses chaque jour.
 
-Les choses qui me rendent heureuse :
+Mes petits bonheurs:
 
 - :cat2: Les chats
 - :tea: Boire du thé
-- :film_projector::scissors: Filmer et monter des vidéos
+- :film_projector: Filmer et monter des vidéos
 - :martial_arts_uniform: Pratiquer l’Iaido
 - :evergreen_tree: Me promener en forêt
 
