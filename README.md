@@ -25,4 +25,4 @@ Mes petits bonheurs:
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,angular,spring,css,html,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,angular,spring,css,html,figma,mysql,git)](https://skillicons.dev)
